@@ -2,7 +2,7 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Problem statement: 
 
-Given the customer’s data, I had to segment the data into 3 categorieswhich would be helpful to the company in designing customer campaigns. Data had to be segmented based on the income and age values of customers, using the K-means algorithm.
+Given the customer’s data, I had to segment the data into 3 categories which would be helpful to the company in designing customer campaigns. Data had to be segmented based on the income and age values of customers, using the K-means algorithm.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Given parameters:
 
